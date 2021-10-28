@@ -1,9 +1,9 @@
 ### Olá, eu sou o Leonardo Piatã 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sisemas 
-- 🌱 Estudando JAVA 
+- 📚 Estudante de Análise e Desenvolvimento de Sisemas 
+- 💻 Estudando JAVA 
 - 📫 Contate-me no email: leonardo.oliveira6531@gmail.com
-- 😄 Pronouns: ele/dele
+- 👽 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/Leonardo014">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo014&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
