@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Piatã 👋
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas 
-- 💻 Estudando JAVA, C Python e PhP
+- 💻 Estudando JAVA, C, Python e PhP
 - 📫 Contate-me no email: leonardo.oliveira6531@gmail.com
 - 👽 Pronouns: ele/dele
 <div align="center">
