@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo Piatã 👋
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas. 
-- 💻 Estudando C++/LP, Java/POO e PhP.
+- 💻 Estudando Java/POO e PhP.
 - 📫 Contate-me no email: leonardo.oliveira6531@gmail.com
 
 <div align="center">
